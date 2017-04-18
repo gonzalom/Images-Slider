@@ -11,6 +11,12 @@ Value Object definition.
 
 Small gallery from a json.
 
+![Image of Images Slider](images-slider.png)
+
+You can see the demo with [RawGit](http://rawgit.com/):
+- https://cdn.rawgit.com/gonzalom/Images-Slider/5a443afc/web/index.html
+- https://rawgit.com/gonzalom/Images-Slider/master/web/index.html
+
 # Installation
 
 Clone the project with the following command:
