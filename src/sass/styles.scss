@@ -1,0 +1,29 @@
+body {
+  background-color: white;
+  color: #3a3a3a;
+}
+
+header { /* logo 148x197 */
+  margin-top: 10px;
+  background: url("../images/logo.jpg") no-repeat top left;
+  padding-left: 160px;
+  height: 197px;
+}
+
+header h1 {
+  padding-top: 20px;
+  font-family: 'Fugaz One', cursive;
+  font-size: 48px;
+  color: #54b9b5;
+}
+
+main, footer {
+  margin-top: 30px;
+  border-top: 1px solid #eee;
+  padding-top: 30px;
+}
+
+footer p {
+  text-align: center;
+  font-size: 12px;
+}

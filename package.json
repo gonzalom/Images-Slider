@@ -1,0 +1,55 @@
+{
+  "private": true,
+  "name": "image-slider",
+  "version": "1.0.0",
+  "description": "Images Slider",
+  "keywords": [
+    "images",
+    "slider"
+  ],
+  "author": "Gonzalo Moreno",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gonzalom/Images-Slider"
+  },
+  "bugs": {
+    "url": "https://github.com/gonzalom/Images-Slider/issues"
+  },
+  "homepage": "https://github.com/gonzalom/Images-Slider",
+  "main": "index.js",
+  "directories": {
+    "src": "src",
+    "spec": "spec"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-beautify": "^2.0.1",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-if": "^2.0.2",
+    "gulp-jshint": "^2.0.4",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^2.1.2",
+    "gulp-util": "^3.0.8",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "q": "^1.5.0"
+  },
+  "standard": {
+    "parser": "babel-eslint",
+    "ignore": [
+      "/dist",
+      "/node_modules"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "image-slider",
+  "description": "Images Slider",
+  "main": "index.js",
+  "authors": [
+    "Gonzalo Moreno"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "images",
+    "slider"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "owl.carousel": "^2.2.1",
+    "jquery_lazyload": "jquery.lazyload#^1.9.7",
+    "react": "^15.5.4",
+    "babel": "^5.8.38"
+  }
+}
